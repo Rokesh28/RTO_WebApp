@@ -1,6 +1,6 @@
 # 🚗 RTO WebApp
 
-**RTO WebApp** is a multi-layered ASP.NET Core MVC application designed to manage operations within a Regional Transport Office (RTO). The system enables the management and validation of Aadhaar, driving licenses, vehicle registration, profile information, and more.
+**RTO WebApp** is a multi-layered ASP.NET Core Webforms application designed to manage operations within a Regional Transport Office (RTO). The system enables the management and validation of Aadhaar, driving licenses, vehicle registration, profile information, and more.
 
 This project demonstrates a clear separation of concerns through a layered architecture, including Business, Data, and View layers for scalability and maintainability.
 
